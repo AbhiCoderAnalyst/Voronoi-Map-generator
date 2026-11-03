@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://p3k35ptsqypu"]
+
+[ext_resource type="Script" uid="uid://bdnj8sskm2w5b" path="res://Voronoi-Map-generator/scripts/map.gd" id="1_o5qli"]
+
+[node name="main" type="Node2D"]
+
+[node name="map" type="Node2D" parent="."]
+script = ExtResource("1_o5qli")

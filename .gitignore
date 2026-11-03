@@ -1,0 +1,16 @@
+
+# Godot 4+
+.godot/
+
+# Imported assets and cache
+.import/
+.export/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
