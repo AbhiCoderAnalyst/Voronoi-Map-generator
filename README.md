@@ -3,7 +3,7 @@ this is a basic voronoi map generator, built in __Godot 4.5.1(gdscript)__
 
 ### It has used *__Sutherland-Hodgeman polygon clipping algorithm__*
 
-__Time Complexity__:*$O(n^2)$*
+__Time Complexity__:$O(n^2)$
 
 # Some generated Images:
 1. 
